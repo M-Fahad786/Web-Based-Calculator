@@ -1,0 +1,62 @@
+/* START OF CSS */
+
+body {
+  background: rgba(64, 60, 145, 0.9);
+}
+.container {
+  text-align: center;
+  margin-top: 40px;
+}
+.container h1 {
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+  color: white;
+  text-shadow: 2px 2px rgb(34, 32, 32);
+}
+
+table {
+  margin: auto;
+}
+
+.container input {
+  outline: none;
+  font-size: 25px;
+  border: 2px solid rgb(125, 40, 206);
+  height: 40px;
+}
+
+button {
+  font-size: 20px;
+  width: 65px;
+  height: 65px;
+  color: blueviolet;
+  border: 1px solid rgb(125, 40, 206);
+  border-radius: px;
+}
+
+.btn {
+  background-color: rgb(22, 21, 21);
+  color: rgb(152, 85, 214);
+  border: 1px solid grey;
+}
+
+button {
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: rgb(22, 21, 21);
+  color: white;
+}
+
+.btn {
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  background-color: white;
+  color: rgb(22, 21, 21);
+}
+
+/* END OF CSS */
